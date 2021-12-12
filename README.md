@@ -1,2 +1,2 @@
 # First-Aid-ChatBot-main
-Pulled from github.com/tushark01
+Project partner github.com/tushark01
